@@ -1,5 +1,5 @@
-# Meta-Heuristicas CIO(Complementos Investigação Operacional), UC 
-
+# Meta-Heuristicas 
+    
 This is my implementation in python for this labwork about meta-heuristics
 
 ## How to use 
@@ -25,4 +25,7 @@ To run several tests you can just run the bash script: `run_tests.sh`
   * *exercise* => -e, --exercise | available=(1, 2)
   * *cooling coefficients* => -c, --coefficients | available=(1e-5, 1e-4, 1e-3, 1e-2)
         
-    
+
+Complementos Investigação Operacional (CIO)
+Universidade de Coimbra (UC)
+
