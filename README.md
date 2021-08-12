@@ -8,7 +8,7 @@ For single exercise run:
 
   `python ex1.py [options]` or `python ex2.py [options]`
   
-To run several tests you can just run the bash script: `run_tests.sh`
+To run several tests you can just run the bash script: `bash run_tests.sh`
   
 ### Available parsing options
  
